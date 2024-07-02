@@ -12,11 +12,8 @@ struct MenuView: View {
         NavigationStack{
             VStack{
                 NavigationLink(destination: IMCView()){
-                    Text("IMC CALCULATOR 0")
+                    Text("IMC CALCULATOR >>")
                 }
-                Text("IMC CALCULATOR 1")
-                Text("IMC CALCULATOR 2")
-                Text("IMC CALCULATOR 3")
             }
         }
     }
