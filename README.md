@@ -12,7 +12,9 @@ Esta es mi primera aplicación construida con SwiftUI, una calculadora de Índic
 
 ## Capturas de Pantalla
 
-![Screenshot 2](images/img2.png)
+![Screenshot 2](WeSplit/Assets.xcassets/banner.imageset/banner.png)
 
 ## Instalación
-
+1. Clonar el repositorio:
+   ```sh
+   git clone https://github.com/yourusername/imc-calculator.git
