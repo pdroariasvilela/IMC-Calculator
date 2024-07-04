@@ -1,4 +1,4 @@
-# IMC Calculator App
+# IMC Calculator App | iOS
 
 Esta es mi primera aplicación construida con SwiftUI, una calculadora de Índice de Masa Corporal (IMC) simple pero funcional. La aplicación permite a los usuarios ingresar su peso y altura, luego calcula y muestra su IMC junto con una categoría correspondiente (por ejemplo, Bajo peso, Peso normal, Sobrepeso, Obesidad).
 
